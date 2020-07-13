@@ -1,5 +1,5 @@
 # Naive Bayes Classifier 
-A Naive Bayes Classifier implemented from scratch.
+A Naive Bayes Classifier implemented from scratch in Python.
 
 ### Run Locally 
 ``` 
